@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/allview/x2xtreme/xx2xtreme-vendor-blobs.mk)
+$(call inherit-product, vendor/allview/x2xtreme/x2xtreme-vendor-blobs.mk)
